@@ -1,0 +1,12 @@
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/ExplicitInterfaces/bin/Debug/netcoreapp3.1/ExplicitInterfaces.deps.json
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/ExplicitInterfaces/bin/Debug/netcoreapp3.1/ExplicitInterfaces.runtimeconfig.json
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/ExplicitInterfaces/bin/Debug/netcoreapp3.1/ExplicitInterfaces.runtimeconfig.dev.json
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/ExplicitInterfaces/bin/Debug/netcoreapp3.1/ExplicitInterfaces.dll
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/ExplicitInterfaces/bin/Debug/netcoreapp3.1/ExplicitInterfaces.pdb
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/ExplicitInterfaces/obj/Debug/netcoreapp3.1/ExplicitInterfaces.csprojAssemblyReference.cache
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/ExplicitInterfaces/obj/Debug/netcoreapp3.1/ExplicitInterfaces.csproj.CoreCompileInputs.cache
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/ExplicitInterfaces/obj/Debug/netcoreapp3.1/ExplicitInterfaces.AssemblyInfoInputs.cache
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/ExplicitInterfaces/obj/Debug/netcoreapp3.1/ExplicitInterfaces.AssemblyInfo.cs
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/ExplicitInterfaces/obj/Debug/netcoreapp3.1/ExplicitInterfaces.dll
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/ExplicitInterfaces/obj/Debug/netcoreapp3.1/ExplicitInterfaces.pdb
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/ExplicitInterfaces/obj/Debug/netcoreapp3.1/ExplicitInterfaces.genruntimeconfig.cache

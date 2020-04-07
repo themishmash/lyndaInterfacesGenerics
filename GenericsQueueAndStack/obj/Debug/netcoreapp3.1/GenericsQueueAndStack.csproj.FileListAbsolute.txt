@@ -1,0 +1,12 @@
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/GenericsQueueAndStack/bin/Debug/netcoreapp3.1/GenericsQueueAndStack.deps.json
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/GenericsQueueAndStack/bin/Debug/netcoreapp3.1/GenericsQueueAndStack.runtimeconfig.json
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/GenericsQueueAndStack/bin/Debug/netcoreapp3.1/GenericsQueueAndStack.runtimeconfig.dev.json
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/GenericsQueueAndStack/bin/Debug/netcoreapp3.1/GenericsQueueAndStack.dll
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/GenericsQueueAndStack/bin/Debug/netcoreapp3.1/GenericsQueueAndStack.pdb
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/GenericsQueueAndStack/obj/Debug/netcoreapp3.1/GenericsQueueAndStack.csprojAssemblyReference.cache
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/GenericsQueueAndStack/obj/Debug/netcoreapp3.1/GenericsQueueAndStack.csproj.CoreCompileInputs.cache
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/GenericsQueueAndStack/obj/Debug/netcoreapp3.1/GenericsQueueAndStack.AssemblyInfoInputs.cache
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/GenericsQueueAndStack/obj/Debug/netcoreapp3.1/GenericsQueueAndStack.AssemblyInfo.cs
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/GenericsQueueAndStack/obj/Debug/netcoreapp3.1/GenericsQueueAndStack.dll
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/GenericsQueueAndStack/obj/Debug/netcoreapp3.1/GenericsQueueAndStack.pdb
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/GenericsQueueAndStack/obj/Debug/netcoreapp3.1/GenericsQueueAndStack.genruntimeconfig.cache

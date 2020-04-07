@@ -1,0 +1,12 @@
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/GenericListCollections/bin/Debug/netcoreapp3.1/GenericListCollections.deps.json
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/GenericListCollections/bin/Debug/netcoreapp3.1/GenericListCollections.runtimeconfig.json
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/GenericListCollections/bin/Debug/netcoreapp3.1/GenericListCollections.runtimeconfig.dev.json
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/GenericListCollections/bin/Debug/netcoreapp3.1/GenericListCollections.dll
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/GenericListCollections/bin/Debug/netcoreapp3.1/GenericListCollections.pdb
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/GenericListCollections/obj/Debug/netcoreapp3.1/GenericListCollections.csprojAssemblyReference.cache
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/GenericListCollections/obj/Debug/netcoreapp3.1/GenericListCollections.csproj.CoreCompileInputs.cache
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/GenericListCollections/obj/Debug/netcoreapp3.1/GenericListCollections.AssemblyInfoInputs.cache
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/GenericListCollections/obj/Debug/netcoreapp3.1/GenericListCollections.AssemblyInfo.cs
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/GenericListCollections/obj/Debug/netcoreapp3.1/GenericListCollections.dll
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/GenericListCollections/obj/Debug/netcoreapp3.1/GenericListCollections.pdb
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/GenericListCollections/obj/Debug/netcoreapp3.1/GenericListCollections.genruntimeconfig.cache

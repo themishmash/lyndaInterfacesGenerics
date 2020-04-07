@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7500e51-54d8-4f50-8aa4-521b4ab900a2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/LyndaInterfacesAndGenerics/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LyndaInterfacesAndGenerics/Solution.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/Ex_Files_CSharp_IG/Exercise Files/Ch02/02_02/BasicInterfaces/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IntroGenerics/UnitTest1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ChallengeGettingInfoFromList/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/Ex_Files_CSharp_IG/Exercise Files/Ch03/03_03/StacksQueues/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ExplicitInterfaces/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GenericsQueueAndStack/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/Ex_Files_CSharp_IG/Exercise Files/Ch03/03_04/Dictionaries/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../cSharpCoderAcad/NewsApp/NewsApp/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../cSharpCoderAcad/Day7Challenges/Day7Challenges/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/Ex_Files_CSharp_IG/Exercise Files/Ch02/02_08/IntfChallengeSolution/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/Ex_Files_CSharp_IG/Exercise Files/Ch03/03_02/GenericList/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/Ex_Files_CSharp_IG/Exercise Files/Ch02/02_05/ExplicitInterfaces/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GenericsDictionary/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/Ex_Files_CSharp_IG/Exercise Files/Ch03/03_05/GenChallengeSolution/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RandomNumberGenerator/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IntroGenerics1/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/Ex_Files_CSharp_IG/Exercise Files/Ch02/02_06/NETInterfaces/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/Ex_Files_CSharp_IG/Exercise Files/Ch03/03_01/IntroGenerics/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NetInterfaces/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GenericListCollections/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/LyndaInterfacesAndGenerics/Solution.cs" />
+        <option value="$PROJECT_DIR$/LyndaInterfacesAndGenerics/Program.cs" />
+        <option value="$PROJECT_DIR$/ExplicitInterfaces/Program.cs" />
+        <option value="$PROJECT_DIR$/NetInterfaces/Program.cs" />
+        <option value="$PROJECT_DIR$/../cSharpCoderAcad/NewsApp/NewsApp/Program.cs" />
+        <option value="$PROJECT_DIR$/RandomNumberGenerator/Program.cs" />
+        <option value="$PROJECT_DIR$/IntroGenerics1/Program.cs" />
+        <option value="$PROJECT_DIR$/Generics3/Program.cs" />
+        <option value="$PROJECT_DIR$/Generics2/Program.cs" />
+        <option value="$PROJECT_DIR$/GenericsQueueAndStack/Program.cs" />
+        <option value="$PROJECT_DIR$/GenericsDictionary/Program.cs" />
+        <option value="$PROJECT_DIR$/ChallengeGettingInfoFromList/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a97Nzxy26pPUneFxD3ObtKoJnd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected=".NET Project.ChallengeGettingInfoFromList">
+    <configuration name="ChallengeGettingInfoFromList" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ChallengeGettingInfoFromList/ChallengeGettingInfoFromList.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Generics2" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/GenericListCollections/GenericListCollections.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericsDictionary" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/GenericsDictionary/GenericsDictionary.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericsQueueAndStack" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/GenericsQueueAndStack/GenericsQueueAndStack.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntroGenerics1" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/IntroGenerics1/IntroGenerics1.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LyndaInterfacesAndGenerics" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/LyndaInterfacesAndGenerics/LyndaInterfacesAndGenerics.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.ChallengeGettingInfoFromList" />
+        <item itemvalue=".NET Project.Generics2" />
+        <item itemvalue=".NET Project.GenericsDictionary" />
+        <item itemvalue=".NET Project.GenericsQueueAndStack" />
+        <item itemvalue=".NET Project.IntroGenerics1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7500e51-54d8-4f50-8aa4-521b4ab900a2" name="Default Changelist" comment="" />
+      <created>1586135919722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586135919722</updated>
+      <workItem from="1586135921302" duration="16169000" />
+      <workItem from="1586220280812" duration="625000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="798" height="253" key="GridCell.Tab.0.bottom" timestamp="1586174834354">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1324" height="187" key="GridCell.Tab.0.bottom/0.23.1680.947/1680.23.1366.745@1680.23.1366.745" timestamp="1586158550050" />
+    <state width="798" height="253" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1586174834354" />
+    <state width="798" height="253" key="GridCell.Tab.0.center" timestamp="1586174834354">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1324" height="187" key="GridCell.Tab.0.center/0.23.1680.947/1680.23.1366.745@1680.23.1366.745" timestamp="1586158550049" />
+    <state width="798" height="253" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1586174834354" />
+    <state width="798" height="253" key="GridCell.Tab.0.left" timestamp="1586174834353">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1324" height="187" key="GridCell.Tab.0.left/0.23.1680.947/1680.23.1366.745@1680.23.1366.745" timestamp="1586158550049" />
+    <state width="798" height="253" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1586174834353" />
+    <state width="798" height="253" key="GridCell.Tab.0.right" timestamp="1586174834354">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1324" height="187" key="GridCell.Tab.0.right/0.23.1680.947/1680.23.1366.745@1680.23.1366.745" timestamp="1586158550050" />
+    <state width="798" height="253" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1586174834354" />
+    <state x="363" y="264" key="Rider.ProjectTemplateDialog.Size" timestamp="1586156204835">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="363" y="264" key="Rider.ProjectTemplateDialog.Size/0.23.1680.947/1680.23.1366.745@1680.23.1366.745" timestamp="1586156204835" />
+    <state x="262" y="23" width="1324" height="725" key="dock-window-1" timestamp="1586146139379">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="262" y="23" width="1324" height="725" key="dock-window-1/0.23.1680.947/1680.23.1366.745@1680.23.1366.745" timestamp="1586146139379" />
+    <state x="0" y="23" width="840" height="947" key="dock-window-2" timestamp="1586220357639">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="0" y="23" width="840" height="947" key="dock-window-2/0.23.1680.947/1680.23.1366.745@0.23.1680.947" timestamp="1586220357639" />
+    <state x="18" y="23" width="1661" height="941" maximized="true" key="dock-window-2/0.23.1680.947/1680.23.1366.745@1680.23.1366.745" timestamp="1586156444394" />
+    <state x="0" y="23" width="840" height="947" key="dock-window-2/0.23.1680.947@0.23.1680.947" timestamp="1586172704218" />
+  </component>
+</project>

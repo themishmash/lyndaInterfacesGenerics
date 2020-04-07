@@ -1,0 +1,12 @@
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/IntroGenerics1/bin/Debug/netcoreapp3.1/IntroGenerics1.deps.json
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/IntroGenerics1/bin/Debug/netcoreapp3.1/IntroGenerics1.runtimeconfig.json
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/IntroGenerics1/bin/Debug/netcoreapp3.1/IntroGenerics1.runtimeconfig.dev.json
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/IntroGenerics1/bin/Debug/netcoreapp3.1/IntroGenerics1.dll
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/IntroGenerics1/bin/Debug/netcoreapp3.1/IntroGenerics1.pdb
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/IntroGenerics1/obj/Debug/netcoreapp3.1/IntroGenerics1.csprojAssemblyReference.cache
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/IntroGenerics1/obj/Debug/netcoreapp3.1/IntroGenerics1.csproj.CoreCompileInputs.cache
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/IntroGenerics1/obj/Debug/netcoreapp3.1/IntroGenerics1.AssemblyInfoInputs.cache
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/IntroGenerics1/obj/Debug/netcoreapp3.1/IntroGenerics1.AssemblyInfo.cs
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/IntroGenerics1/obj/Debug/netcoreapp3.1/IntroGenerics1.dll
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/IntroGenerics1/obj/Debug/netcoreapp3.1/IntroGenerics1.pdb
+/Users/michelle.wong/FMA/LyndaInterfacesAndGenerics/IntroGenerics1/obj/Debug/netcoreapp3.1/IntroGenerics1.genruntimeconfig.cache
